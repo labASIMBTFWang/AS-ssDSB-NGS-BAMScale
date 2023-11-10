@@ -1,0 +1,14 @@
+{
+	"name": "as-ssdsb-ngs-bamscale",
+	"version": "0.1.0",
+	"description": "AS-ssDSB-NGS-BAMScale",
+	"homepage": "https://github.com/tfwangasimb/AS-ssDSB-NGS-BAMScale",
+	"engines": {
+		"node": ">=16.14.0"
+	},
+	"private": true,
+	"preferGlobal": true,
+	"bin": {
+		"AS-ssDSB-NGS-BAMScale": "./bin/AS-ssDSB-NGS-BAMScale"
+	}
+}
